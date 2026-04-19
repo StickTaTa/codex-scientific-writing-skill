@@ -1,0 +1,7 @@
+﻿# Ignore local clutter
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Writing"
+  short_description: "Scientific writing for papers and reports"
+  default_prompt: "Use $scientific-writing to plan and draft a citation-backed scientific manuscript."
