@@ -1,5 +1,8 @@
 ﻿# Codex Scientific Writing Skill
 
+[![English](https://img.shields.io/badge/Guide-English-2563eb?style=for-the-badge)](./README.en.md)
+[![中文教程](https://img.shields.io/badge/教程-中文-16a34a?style=for-the-badge)](./README.zh-CN.md)
+
 ## Overview
 
 This repository packages a Codex-native `scientific-writing` skill so other users can install it and use it directly in Codex.
@@ -35,7 +38,7 @@ If you want a feature set closer to the original upstream project, you should pu
 ### Option 1: Clone and install with PowerShell
 
 ```powershell
-git clone https://github.com/<your-account>/codex-scientific-writing-skill.git
+git clone https://github.com/StickTaTa/codex-scientific-writing-skill.git
 cd codex-scientific-writing-skill
 ./scripts/install.ps1
 ```
@@ -47,7 +50,7 @@ By default, the script installs the skill to:
 ### Option 2: Clone and install with Bash
 
 ```bash
-git clone https://github.com/<your-account>/codex-scientific-writing-skill.git
+git clone https://github.com/StickTaTa/codex-scientific-writing-skill.git
 cd codex-scientific-writing-skill
 bash ./scripts/install.sh
 ```
@@ -116,22 +119,22 @@ codex-scientific-writing-skill/
 
 ## Star History
 
-After you publish the repository, replace `your-github-username` below with the real GitHub owner name.
+Star history for `StickTaTa/codex-scientific-writing-skill`.
 
 <p align="center">
-  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+  <a href="https://star-history.com/#StickTaTa/codex-scientific-writing-skill&Date">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date&theme=dark"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
       <img
         alt="Star History Chart"
-        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        src="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
     </picture>
   </a>

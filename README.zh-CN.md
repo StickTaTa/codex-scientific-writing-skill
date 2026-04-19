@@ -1,5 +1,8 @@
 ﻿# Codex Scientific Writing Skill
 
+[![English](https://img.shields.io/badge/Guide-English-2563eb?style=for-the-badge)](./README.en.md)
+[![中文教程](https://img.shields.io/badge/教程-中文-16a34a?style=for-the-badge)](./README.zh-CN.md)
+
 ## 简介
 
 这个仓库把一个可直接安装的 Codex `scientific-writing` skill 打包好了，别人克隆后就可以安装到自己的 Codex 环境里使用。
@@ -35,7 +38,7 @@
 ### 方式 1：PowerShell 安装
 
 ```powershell
-git clone https://github.com/<你的账号>/codex-scientific-writing-skill.git
+git clone https://github.com/StickTaTa/codex-scientific-writing-skill.git
 cd codex-scientific-writing-skill
 ./scripts/install.ps1
 ```
@@ -47,7 +50,7 @@ cd codex-scientific-writing-skill
 ### 方式 2：Bash 安装
 
 ```bash
-git clone https://github.com/<你的账号>/codex-scientific-writing-skill.git
+git clone https://github.com/StickTaTa/codex-scientific-writing-skill.git
 cd codex-scientific-writing-skill
 bash ./scripts/install.sh
 ```
@@ -122,22 +125,22 @@ codex-scientific-writing-skill/
 
 ## Star History
 
-等你把仓库真正发布到 GitHub 之后，把下面的 `your-github-username` 替换成实际用户名即可。
+当前仓库 `StickTaTa/codex-scientific-writing-skill` 的 Star History。
 
 <p align="center">
-  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+  <a href="https://star-history.com/#StickTaTa/codex-scientific-writing-skill&Date">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date&theme=dark"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
       <img
         alt="Star History Chart"
-        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        src="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
     </picture>
   </a>

@@ -1,5 +1,8 @@
 ﻿# Codex Scientific Writing Skill
 
+[![English](https://img.shields.io/badge/Guide-English-2563eb?style=for-the-badge)](./README.en.md)
+[![中文教程](https://img.shields.io/badge/教程-中文-16a34a?style=for-the-badge)](./README.zh-CN.md)
+
 A publishable Codex skill package based on the core `scientific-writing` workflow from [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer).
 
 This repository contains:
@@ -56,22 +59,22 @@ The packaged skill passed local validation with Codex's `quick_validate.py`.
 
 ## Star History
 
-After you create the GitHub repository, replace `your-github-username` below with the actual repository owner.
+Star history for `StickTaTa/codex-scientific-writing-skill`.
 
 <p align="center">
-  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+  <a href="https://star-history.com/#StickTaTa/codex-scientific-writing-skill&Date">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date&theme=dark"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        srcset="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
       <img
         alt="Star History Chart"
-        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+        src="https://api.star-history.com/svg?repos=StickTaTa/codex-scientific-writing-skill&type=Date"
       />
     </picture>
   </a>
