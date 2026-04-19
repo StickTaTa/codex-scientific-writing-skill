@@ -120,6 +120,29 @@ codex-scientific-writing-skill/
 - 当前发布包是一个 **Codex 版核心 scientific-writing skill**。
 - 如果用户期待的是完整 upstream 的 end-to-end scientific writer 行为，需要后续再补装或继续移植 `research-lookup`、`parallel-web` 等配套 skills。
 
+## Star History
+
+等你把仓库真正发布到 GitHub 之后，把下面的 `your-github-username` 替换成实际用户名即可。
+
+<p align="center">
+  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+      <img
+        alt="Star History Chart"
+        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+    </picture>
+  </a>
+</p>
+
 ## License 与归属
 
 这个仓库包含基于上游 MIT 协议项目改写和整理的内容。

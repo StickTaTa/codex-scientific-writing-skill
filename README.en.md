@@ -114,6 +114,29 @@ codex-scientific-writing-skill/
 - The packaged skill is intentionally narrower than the full upstream project.
 - If users expect end-to-end scientific writer behavior, document that they may also need companion skills such as `research-lookup` and `parallel-web`.
 
+## Star History
+
+After you publish the repository, replace `your-github-username` below with the real GitHub owner name.
+
+<p align="center">
+  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+      <img
+        alt="Star History Chart"
+        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+    </picture>
+  </a>
+</p>
+
 ## License and Attribution
 
 This repository contains material derived from the upstream MIT-licensed project.

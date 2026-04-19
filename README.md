@@ -54,6 +54,29 @@ Use $scientific-writing to turn my outline into full scientific prose.
 
 The packaged skill passed local validation with Codex's `quick_validate.py`.
 
+## Star History
+
+After you create the GitHub repository, replace `your-github-username` below with the actual repository owner.
+
+<p align="center">
+  <a href="https://star-history.com/#your-github-username/codex-scientific-writing-skill&Date">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+      <img
+        alt="Star History Chart"
+        src="https://api.star-history.com/svg?repos=your-github-username/codex-scientific-writing-skill&type=Date"
+      />
+    </picture>
+  </a>
+</p>
+
 ## License
 
 This repository includes material derived from the upstream project and keeps the upstream [MIT License](./LICENSE).
