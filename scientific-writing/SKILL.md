@@ -66,6 +66,22 @@ Apply these rules on every manuscript task:
 - Use field-appropriate terminology consistently.
 - Match tone and structure to the target venue rather than using one generic academic voice.
 
+## Manuscript Revision Rules
+
+When revising an existing scientific manuscript, especially for a
+high-impact journal style:
+
+- Read the target manuscript and surrounding project evidence before changing prose.
+- Preserve the manuscript's current storyline and terminology unless the user asks for a reframing.
+- Keep main-text Results written as evidence-led narrative, not as protocol documentation.
+- Do not isolate long protocol explanations in Results when the setting can be folded into the result sentence.
+- Introduce the dataset briefly in main text, then move implementation details to Methods or Supplementary Note.
+- For benchmarks, state the fairness standard plainly: same preprocessing where possible, same evaluated gene set, same train/validation/test logic, and uniform output alignment.
+- Use supplementary tables for exact data partitions, gene panels, method adaptations, checkpoint rules, and metric definitions.
+- If experiments are unfinished but the expected placement is known, insert a clear placeholder rather than inventing numbers.
+- Placeholder text must identify what final values or figure/table references need to be filled in.
+- For single-slide and multi-slide benchmarks, avoid making the section sound like only one setting exists; present the completed setting as the current evidence and reserve a visible place for the pending setting.
+
 ## Figures and Tables
 
 Plan visuals early instead of bolting them on at the end.
